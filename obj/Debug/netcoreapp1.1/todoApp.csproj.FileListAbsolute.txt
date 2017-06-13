@@ -1,0 +1,8 @@
+c:\Projects\0-Practice Projects\c#\todoApp\bin\Debug\netcoreapp1.1\todoApp.deps.json
+c:\Projects\0-Practice Projects\c#\todoApp\bin\Debug\netcoreapp1.1\todoApp.runtimeconfig.json
+c:\Projects\0-Practice Projects\c#\todoApp\bin\Debug\netcoreapp1.1\todoApp.runtimeconfig.dev.json
+c:\Projects\0-Practice Projects\c#\todoApp\bin\Debug\netcoreapp1.1\todoApp.dll
+c:\Projects\0-Practice Projects\c#\todoApp\bin\Debug\netcoreapp1.1\todoApp.pdb
+c:\Projects\0-Practice Projects\c#\todoApp\obj\Debug\netcoreapp1.1\todoApp.AssemblyInfo.cs
+c:\Projects\0-Practice Projects\c#\todoApp\obj\Debug\netcoreapp1.1\todoApp.dll
+c:\Projects\0-Practice Projects\c#\todoApp\obj\Debug\netcoreapp1.1\todoApp.pdb
